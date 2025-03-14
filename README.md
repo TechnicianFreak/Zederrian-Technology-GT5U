@@ -67,7 +67,7 @@ Old pics from the IC2 forum:
 
 Click the button below to download the zip file for the latest version of the pack, then put it in your resourcepack folder. **Try unzip the file and reload if it fails to load correctly.**
 
-[![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/MCTian-mi/Zederrian-Technology-GT5U/archive/refs/heads/master.zip)
+[![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/TechnicianFreak/Zederrian-Technology-GT5U/archive/refs/heads/master.zip)
 
 ## License
 
